@@ -43,6 +43,8 @@ TWITTER_USERNAME=your_username
 TWITTER_PASSWORD=your_password
 TWITTER_EMAIL=your_email
 GAIANET_API_KEY=your_api_key
+GAIANET_SERVER_URL=use_open_node
+GAIANET_EMBEDDING_MODEL=model_name
 ```
 
 ## Configuration
